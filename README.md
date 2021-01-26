@@ -20,6 +20,6 @@ In it I will be uploading personal projects and school projects that I am proud 
 * Data Science?
 
 ## heres some pictures of me in the mountains
-[ski pic](ski_photo.jpg)
+![ski pic](ski_photo.jpg)
 
-[sunny mountains](mountains_summer.jpg)
+![sunny mountains](mountains_summer.jpg)
