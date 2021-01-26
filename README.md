@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![sandwichPic](/images/sandwich.jpg)
+
 <!--
 **Logan-PD/Logan-PD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
