@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 If you're reading this you're either a fellow student or a recruiter.
-In either case, add me on [LinkedIn](https://www.linkedin.com/in/logan-perry-din/)
 
-<!--
-**Logan-PD/Logan-PD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In either case, add me on [LinkedIn](https://www.linkedin.com/in/logan-perry-din/)!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
