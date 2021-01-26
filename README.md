@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![sandwichPic](sandwich.jpg)
+If you're reading this you're either a fellow student or a recruiter.
+In either case, add me on [LinkedIn](https://www.linkedin.com/in/logan-perry-din/)
 
 <!--
 **Logan-PD/Logan-PD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
