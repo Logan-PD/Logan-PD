@@ -1,13 +1,6 @@
-## Hi there 👋
 
-If you're reading this you're either a fellow student or a recruiter.
-
-In either case, add me on [LinkedIn](https://www.linkedin.com/in/logan-perry-din/)!
-
-
-I made this new github account to have one with my name *Logan Irfan Perry-Din*.
-
-In it I will be uploading personal projects and school projects that I am proud of, and maybe some philosophy papers.
+# Logan Irfan Perry-Din
+[LinkedIn](https://www.linkedin.com/in/logan-perry-din/)
 
 ## Current:
 * **Seeking a computer science internship**, preferably in the field of networks
