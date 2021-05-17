@@ -17,5 +17,4 @@ also Ski, Bike, and Canoe every where in Western Canada.
 ![ski pic](ski_photo.jpg)
 ![sunny mountains](mountains_summer.jpg)
 ![](trio_onlook.jpg)
-![](me_n_felix.jpg)
 ![](canoe_head.jpg)
