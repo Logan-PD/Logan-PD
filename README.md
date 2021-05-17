@@ -1,8 +1,7 @@
-
-# Logan Irfan Perry-Din
+# ✨ My GitHub profile ✨
 [LinkedIn](https://www.linkedin.com/in/logan-perry-din/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-pd&theme=tokyonight&show_icons=true&count_private=true)]
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-pd&theme=tokyonight&show_icons=true&count_private=true)]
 
 
 ## Current:
