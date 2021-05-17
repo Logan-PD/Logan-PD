@@ -1,6 +1,9 @@
 # ✨ My GitHub profile ✨
 [LinkedIn](https://www.linkedin.com/in/logan-perry-din/)
 
+[Portfolio site](https://logan-pd.github.io/)
+
+
 ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-pd&theme=tokyonight&show_icons=true&count_private=true)
 
 ## Computer Science, Networks, Philosophy 
@@ -13,4 +16,3 @@
 ![](trio_onlook.jpg)
 ![](me_n_felix.jpg)
 ![](canoe_head.jpg)
-![](shovel.jpg)
